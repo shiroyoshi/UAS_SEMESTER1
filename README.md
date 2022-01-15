@@ -14,9 +14,9 @@
             <th>Kelas</th>
         </tr>
         <tr>
-            <td>Mochammad Irfandhy</td>
-            <td>312110126</td>
-            <td>TI.21.C5</td>
+            <td>Muhammad Fahmi Fauzi Setyawan</td>
+            <td>312110112</td>
+            <td>TI.21.C.1</td>
         </tr>
     </table>
 </body>
